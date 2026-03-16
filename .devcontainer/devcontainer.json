@@ -2,7 +2,6 @@
     "name": "Python Codespace",
     "image": "mcr.microsoft.com/devcontainers/python",  
     "extensions": [],
-    "postCreateCommand": "python3 ../main.py",
     "customizations": {
         "vscode": {
             "settings": {
