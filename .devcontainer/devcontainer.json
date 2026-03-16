@@ -6,7 +6,11 @@
         "vscode": {
             "settings": {
                 "github.copilot.enable": false,
-                "github.copilot.inlineSuggest.enable": false
+                "github.copilot.inlineSuggest.enable": false,
+                "chat.commandCenter.enabled": false,
+                "workbench.panel.defaultLocation": "bottom",
+                "extensions.autoCheckUpdates": false,
+                "extensions.autoUpdate": false
             },
             "extensions": [
                 "ms-python.python",
