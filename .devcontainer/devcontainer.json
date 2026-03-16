@@ -5,12 +5,12 @@
     "customizations": {
         "vscode": {
             "settings": {
+                "chat.disableAIFeatures": true,
                 "github.copilot.enable": false,
                 "github.copilot.chat.agent.autoFix": false,
                 "github.copilot.inlineSuggest.enable": false,
                 "github.copilot.editor.enableAutoCompletions": false,
                 "chat.commandCenter.enabled": false,
-                "workbench.panel.defaultLocation": "bottom",
                 "workbench.secondarySideBar.defaultVisibility": "hidden",
                 "extensions.autoCheckUpdates": false,
                 "extensions.autoUpdate": false
