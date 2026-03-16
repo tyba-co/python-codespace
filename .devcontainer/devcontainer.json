@@ -1,0 +1,19 @@
+{
+    "name": "Python Codespace",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",  
+    "extensions": [],
+    "postCreateCommand": "python3 ../main.py",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "github.copilot.enable": false,
+                "github.copilot.inlineSuggest.enable": false
+            },
+            "extensions": [
+                "ms-python.python",
+                "-GitHub.copilot",
+                "-GitHub.copilot-chat"
+            ]
+        }
+    }
+}
