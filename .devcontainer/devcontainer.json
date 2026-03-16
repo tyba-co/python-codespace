@@ -1,6 +1,6 @@
 {
     "name": "Python Codespace",
-    "image": "mcr.microsoft.com/devcontainers/python",  
+    "image": "mcr.microsoft.com/devcontainers/python:3",  
     "extensions": [],
     "customizations": {
         "vscode": {
